@@ -1,4 +1,4 @@
-﻿using AutomaticStockTrader.Core.Alpaca;
+AutomaticStockTrader.Core ﻿using AutomaticStockTrader.Core.Alpaca;
 using AutomaticStockTrader.Core.Strategies;
 using AutomaticStockTrader.Repository;
 using Microsoft.Extensions.Logging;
